@@ -6,6 +6,12 @@ This project has a sleek and modern design that works smoothly on all devices. U
 
 By implementing React functional components, coding and maintaining the app became much more straightforward and the code more reusable. This approach streamlines development, making it easier to create and manage the application's different parts. The use of functional components enhances code organization, readability, and maintainability, resulting in a more efficient and user-friendly project.
 
+## React App Preview
+![c1](https://github.com/ali-log/CLIX_UI/assets/142591226/a887c38b-4cd0-4616-9ecb-f23858d16ef5)
+
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
