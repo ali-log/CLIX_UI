@@ -7,9 +7,17 @@ This project has a sleek and modern design that works smoothly on all devices. U
 By implementing React functional components, coding and maintaining the app became much more straightforward and the code more reusable. This approach streamlines development, making it easier to create and manage the application's different parts. The use of functional components enhances code organization, readability, and maintainability, resulting in a more efficient and user-friendly project.
 
 ## React App Preview
+## Desktop View
 ![c1](https://github.com/ali-log/CLIX_UI/assets/142591226/a887c38b-4cd0-4616-9ecb-f23858d16ef5)
+![c2](https://github.com/ali-log/CLIX_UI/assets/142591226/dbb57185-599e-48a9-b38d-6487dccc3bc2)
+![c3](https://github.com/ali-log/CLIX_UI/assets/142591226/0b2be7e2-1b5c-45ef-9293-8d62858182b3)
+![c4](https://github.com/ali-log/CLIX_UI/assets/142591226/bd3921e5-4abe-4dcf-a10e-348249a99035)
+![c5](https://github.com/ali-log/CLIX_UI/assets/142591226/73efbea8-ee16-486f-9391-bab1a666b3f1)
+![c6](https://github.com/ali-log/CLIX_UI/assets/142591226/1dea0273-2d47-4c6b-998b-279497bb8898)
 
-
+## Mobile View
+![c7](https://github.com/ali-log/CLIX_UI/assets/142591226/e5c849c6-d362-4531-8268-6a870a93c931)
+![c8](https://github.com/ali-log/CLIX_UI/assets/142591226/d85a0780-fa67-470b-b993-2f21af3b81fb)
 
 
 ### `npm start`
