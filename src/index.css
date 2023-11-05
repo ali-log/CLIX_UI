@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Manrope', sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #fefefe 1.84%, #beb5b5 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #ecedee -13.86%, #000000 99.55%);
+
+  --color-bg: #0c0e10f7;
+  --color-footer: #1a2025;
+  --color-blog: #D3D8DC;
+  --color-text: #b3b8bf;
+  --color-subtext: #cfd7df;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--color-bg);
+  margin: 0;
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.gradient__bg {
+  background: radial-gradient(circle at 3% 95%, #213241 0%, rgb(4, 4, 4) 25%);
+}
+
+.gradient__text {
+  background: var(--gradient-text);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section__padding {
+  padding: 3rem 4rem;
+}
+
+.section__margin {
+  margin: 3rem 4rem;
+}
+
+.scale-up-center {
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+  animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .section__padding {
+    padding: 2rem;
+  }
+
+  .section__margin {
+    margin: 2rem;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .section__padding {
+    padding: 2rem 1rem;
+  }
+
+  .section__margin {
+    margin: 2rem 1rem;
+  }  
+}
