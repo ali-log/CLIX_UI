@@ -4,7 +4,7 @@
 
 This project has a sleek and modern design that works smoothly on all devices. Using HTML, CSS, and React.js, I've created a design that adapts to screens of all sizes. With the help of CSS, I've added interactive features to make the design engaging. This means whether you're using a computer, tablet, or phone, the app looks great and works well.
 
-By implementing React functional components, coding and maintaining the app became much more straightforward and the code more reusable. This approach streamlines development, making it easier to create and manage the application's different parts. The use of functional components enhances code organization, readability, and maintainability, resulting in a more efficient and user-friendly project.
+By implementing React functional components, coding and maintaining the app became much more straightforward and the code more reusable. This approach streamlines development, making it easier to create and manage the application's different parts.
 
 ## React App Preview
 ## Desktop View
